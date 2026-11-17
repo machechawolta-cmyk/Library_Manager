@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Manager (BIWA2110)
 
 React (Vite) frontend + Express backend + MySQL.
@@ -14,3 +15,6 @@ React (Vite) frontend + Express backend + MySQL.
 
 ## Features
 Dashboard with low-stock highlight (<2), book CRUD, add/borrow stock with history, login + admin user CRUD.
+=======
+# Library_Manager
+>>>>>>> da650afd9b89591c80e5c14451ba48384bd3995b
